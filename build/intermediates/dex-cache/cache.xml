@@ -79,18 +79,18 @@
         <dex dex="C:\Users\FOJ\AndroidStudioProjects\TweetApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\scribe-codepath-0.0.3_10ec9502ba17d9e36353a5a841cb78b8460f65ed\classes.dex" />
     </item>
     <item
-        jar="C:\Users\FOJ\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
-        <dex dex="C:\Users\FOJ\AndroidStudioProjects\TweetApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_6c67ac8cb5ff739658a2626aec4a0bf5387b355a\classes.dex" />
-    </item>
-    <item
         jar="C:\Users\FOJ\AndroidStudioProjects\TweetApp\app\libs\org.apache.http.legacy.jar"
         jumboMode="true"
         revision="24.0.0"
         sha1="fa331331b626ee78c52bea16ce1e34b39e666ce5">
         <dex dex="C:\Users\FOJ\AndroidStudioProjects\TweetApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\org.apache.http.legacy_89ae1388e7b8c0436229196b2e5ec518b5c1190b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\FOJ\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\FOJ\AndroidStudioProjects\TweetApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_6c67ac8cb5ff739658a2626aec4a0bf5387b355a\classes.dex" />
     </item>
     <item
         jar="C:\Users\FOJ\AndroidStudioProjects\TweetApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
@@ -103,7 +103,7 @@
         jar="C:\Users\FOJ\AndroidStudioProjects\TweetApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         revision="24.0.0"
-        sha1="139fa2027ee8e495f5bb036871a8311e16f94a97">
+        sha1="5cd6268ac7a7e47d2acd3f98dbbd538fc561baee">
         <dex dex="C:\Users\FOJ\AndroidStudioProjects\TweetApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_12236cb89bf6e0b0247c6e4cb60ad66d6e3549f3\classes.dex" />
     </item>
     <item
@@ -124,7 +124,7 @@
         jar="C:\Users\FOJ\AndroidStudioProjects\TweetApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="24.0.0"
-        sha1="233f8dec510876fe4fa81dc955f3fa9193eb1ac7">
+        sha1="5febb4ed5b77f5c9a58729e60a3e29bc533f1d2b">
         <dex dex="C:\Users\FOJ\AndroidStudioProjects\TweetApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_626166d9af851d63962befd0c98d300c44f6530d\classes.dex" />
     </item>
 
