@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\FOJ\.gradle\caches\modules-2\files-2.1\com.michaelpardo\activeandroid\3.1.0-SNAPSHOT\4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08\activeandroid-3.1.0-SNAPSHOT.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08">
+        <dex dex="C:\Users\FOJ\AndroidStudioProjects\TweetApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\activeandroid-3.1.0-SNAPSHOT_876abf2f51198697a89ba62512eaaebb2c909010\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\FOJ\AndroidStudioProjects\TweetApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\Users\FOJ\AndroidStudioProjects\TweetApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.1.0_c6d22977c9466ee3c179dec9a38767ce410d4bea\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\FOJ\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.9\386a4339ffe52d5d63e80f9bed8d2b1d1a418249\android-async-http-1.4.9.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="C:\Users\FOJ\AndroidStudioProjects\TweetApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\android-async-http-1.4.9_f8363263f6f19139346e25de5970a60c1b555334\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\FOJ\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\24.0.0\2943c74db6d4346ab8c6531adac91fa05c137c40\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\FOJ\AndroidStudioProjects\TweetApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_4041ff9772587818bac61e146362387dcfb86ead\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\FOJ\AndroidStudioProjects\TweetApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\FOJ\AndroidStudioProjects\TweetApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_ab0dd58a778f50658c951e98df9d8df84c2e1726\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\FOJ\AndroidStudioProjects\TweetApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\Users\FOJ\AndroidStudioProjects\TweetApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0_703c8acbd54b7bab6d0099aab209a1be97c35ee2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\FOJ\AndroidStudioProjects\TweetApp\app\build\intermediates\exploded-aar\com.codepath.libraries\android-oauth-handler\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="07aa74f1dee90d22616f6aa98a65bea8458cf671">
+        <dex dex="C:\Users\FOJ\AndroidStudioProjects\TweetApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.codepath.libraries-android-oauth-handler-1.0.0_d57f98b09b94224482ce1d19e7bde46df26c1fae\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\FOJ\AndroidStudioProjects\TweetApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\FOJ\AndroidStudioProjects\TweetApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_8d8e30e285fc284c4eedab80496a2ec52bb903ad\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\FOJ\AndroidStudioProjects\TweetApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\Users\FOJ\AndroidStudioProjects\TweetApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0_d21500bb1f0068cd440af0ed7eed1d19758a7084\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\FOJ\AndroidStudioProjects\TweetApp\app\build\intermediates\exploded-aar\com.codepath.libraries\android-oauth-handler\1.0.0\jars\libs\codepath-utils.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="9a9f67173c34e04d2d5609283d43f3006cc4d947">
+        <dex dex="C:\Users\FOJ\AndroidStudioProjects\TweetApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\codepath-utils_a4daf2ea43ff73269da4f996cee611860105f0e6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\FOJ\AndroidStudioProjects\TweetApp\app\build\intermediates\exploded-aar\com.codepath.libraries\android-oauth-handler\1.0.0\jars\libs\scribe-codepath-0.0.3.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3d2ba852ca4cb07c2e9ecbd9a56ff9456025e344">
+        <dex dex="C:\Users\FOJ\AndroidStudioProjects\TweetApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\scribe-codepath-0.0.3_10ec9502ba17d9e36353a5a841cb78b8460f65ed\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\FOJ\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\FOJ\AndroidStudioProjects\TweetApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_6c67ac8cb5ff739658a2626aec4a0bf5387b355a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\FOJ\AndroidStudioProjects\TweetApp\app\libs\org.apache.http.legacy.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fa331331b626ee78c52bea16ce1e34b39e666ce5">
+        <dex dex="C:\Users\FOJ\AndroidStudioProjects\TweetApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\org.apache.http.legacy_89ae1388e7b8c0436229196b2e5ec518b5c1190b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\FOJ\AndroidStudioProjects\TweetApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\Users\FOJ\AndroidStudioProjects\TweetApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0_71fad82a08227635132b5235350f83a9d5408b75\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\FOJ\AndroidStudioProjects\TweetApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="139fa2027ee8e495f5bb036871a8311e16f94a97">
+        <dex dex="C:\Users\FOJ\AndroidStudioProjects\TweetApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_12236cb89bf6e0b0247c6e4cb60ad66d6e3549f3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\FOJ\AndroidStudioProjects\TweetApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="C:\Users\FOJ\AndroidStudioProjects\TweetApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.1.0_892e999d89810b049d15bb9ace28243e7cd0c0be\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\FOJ\.gradle\caches\modules-2\files-2.1\cz.msebera.android\httpclient\4.3.6\526a9f794eab830eae4f23a62c572878b3f491ab\httpclient-4.3.6.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="C:\Users\FOJ\AndroidStudioProjects\TweetApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\httpclient-4.3.6_7f18c76093251303d850342b16f77d87070298f4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\FOJ\AndroidStudioProjects\TweetApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="233f8dec510876fe4fa81dc955f3fa9193eb1ac7">
+        <dex dex="C:\Users\FOJ\AndroidStudioProjects\TweetApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_626166d9af851d63962befd0c98d300c44f6530d\classes.dex" />
+    </item>
+
+</items>
